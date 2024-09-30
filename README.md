@@ -13,4 +13,4 @@ Comme l’objectif de ce projet est d’implanter le service HDFS (Hagidoop Dist
 
 ## Utilisation 
 
-Pour utiliser le projet, veuillez consulter le guide d'utilisation.
+Pour utiliser le projet, veuillez consulter le manuel d'utilisation.
