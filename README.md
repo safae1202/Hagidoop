@@ -1,9 +1,9 @@
-#### Hagidoop
+# Hagidoop
 
 ## Objectifs
 Comme l’objectif de ce projet est d’implanter le service HDFS (Hagidoop Distributed File System) avec les fonctionnalités suivantes :
-  ■ Découpage des fichiers en fragments.
-  ■ Stockage des fragments sur les noeuds du cluster.
+  ■ Découpage des fichiers en fragments. &nbsp;&nbsp;&nbsp;
+  ■ Stockage des fragments sur les noeuds du cluster. &nbsp;&nbsp;&nbsp;
   ■ Copie d'un fichier du système de fichiers local dans le FS HDFS.
   ■ Copie d'un fichier du FS HDFS dans le FS local.
   ■ Suppression des fragments d'un fichier stocké dans HDFS,
